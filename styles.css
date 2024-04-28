@@ -1,0 +1,17 @@
+.nav-pills .nav-link.active,
+.nav-pills.show > .nav-link {
+    color: blue;
+    background-color: transparent;
+}
+
+.nav-link {
+    color: darkgrey;
+}
+
+.nav-link:hover {
+    color: darkgrey;
+}
+
+.img-fluid {
+    height: 100%;
+}
